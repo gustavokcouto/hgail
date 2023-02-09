@@ -1,0 +1,16 @@
+.venv
+*.pyc
+wandb
+api_carla
+ckpt
+video
+screenlog.0
+gail_experts
+outputs
+agent_eval
+saved_models
+images
+gail_experts2
+trajs
+trajs2
+runs
